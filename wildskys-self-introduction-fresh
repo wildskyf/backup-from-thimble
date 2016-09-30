@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<meta Name="Mozilla Webmaker" content="Webmaker-Thimble">
+    <meta property="Wildsky" content="https://www.facebook.com/wi1d5ky">
+    <title>Wildsky's Self-Introduction</title>
+  </head>
+  <body>
+    <div class="wrapper">
+        <section>
+
+        <p class="banner">
+          <strong>Mozilla Taiwan</strong>
+        </p>
+            
+       <font style="text-shadow:3px 3px 25px #EBFFEB;color:#FFC991"><h1>Wildsky</h1></font><br><br>
+          
+<a href="http://wildsky.lionfree.net/">
+        <img style="opacity:0.8" src="http://i.imgbox.com/AJDSwiYT.png" width="176" height="83"></a>
+          
+         <a href="https://www.facebook.com/wi1d5ky">
+        <img style="opacity:0.8" src="http://i.imgbox.com/FhwjpOjh.png" width="176" height="83"></a>
+          
+ 	     <a href="https://twitter.com/wi1d5ky">
+        <img style="opacity:0.8" src="http://i.imgbox.com/IFz9NZvV.jpg" width="176" height="83"></a>
+          <br><br>
+          
+        <footer class="Info">
+          
+          <p> <strong>Chinese Name</strong> is <strong></strong></p>  
+          <p> <strong>Birthday</strong> is <strong>1995/02/18</strong></p>
+          <p> <strong>Mail</strong> is <strong><a href="mailto:poppin.wildsky@gmail.com">poppin.wildsky@gmail.com</a></strong></p>
+          <p> <strong>Interest</strong> in <strong>Dance,Shopping,CSIE</strong></p>
+          <p> <strong>BLOG</strong> is <strong><a style="color:#FF7573;text-shadow:3px 3px 4px #FFCDFE"  href="http://wildsky.cc/">http://wildsky.cc/</a></strong></p>
+          <p> <strong>  FIREFOX & MOZILLA,...</strong><a style="color:#FF7573;text-shadow:3px 3px 4px #FFCDFE" href="https://wildsky.makes.org/thimble/MTk5MTU3MzUwNA==/%E9%97%9C%E6%96%BCmozilla%E7%9A%84%E6%83%B3%E6%B3%95-by-wildsky"><strong>HERE</strong></a></p>
+          <p> <a style="color:#FF7573;text-shadow:3px 3px 4px #FFCDFE" href="https://wildsky.makes.org/popcorn/1ygp"><strong></strong></a><strong>  PopcornMaker ~  :)</strong></p>
+        </footer>
+     </section>
+    </div>
+
+    <style>
+    body {
+        background-color:#EBFFEB;
+        background-image:url("http://i.imgbox.com/qIoGssTc.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: top center;
+        color:#7573FF;
+        text-align:center;
+        font-family:'Trebuchet MS', serif;  
+        text-shadow:3px 3px 1px #000;
+        padding:0; 
+    }
+    .wrapper {
+        margin:0px auto 40px auto;
+        max-width:850px;
+        padding:0px;
+        position: relative;
+        text-shadow: 1px 1px 4px #CDFEFF;
+        text-align:center;
+    }
+    h1 , h2 {
+        font-family:georgia, serif;
+        font-style: italic;
+        font-weight: normal;
+    }
+    h1 {
+        font-size:116px;
+        letter-spacing: 2px;
+        margin-top:50px;
+        margin-bottom:0;
+        line-height: 1em;
+    }
+    h2 {
+        margin-top:30px;
+        margin-bottom:100px;  
+    }
+    .banner {
+        list-style-type: block-inline;
+        text-transform: uppercase;
+        color:#91C7FF;
+        text-shadow: 4px 0px 100px #91C7FF;
+        font-family:Tahoma;
+        text-align:center;
+        font-size: 50px;
+    }
+
+    blockquote {
+        display: inline-block;
+        width: 29%;
+        font-size: 20px;
+
+    }
+    blockquote .title {
+        font-size: 250%;
+        display: block;
+    }
+    blockquote footer {
+        display: block;
+        font-size: 120%;
+        font-family:Microsoft JhengHei;
+    }
+    
+    .Info {
+        text-transform: uppercase;
+        font-size:10px;
+    }
+    .Info strong {
+         font-size:17px;
+    }
+      
+    </style>
+
+  </body>
+</html>
